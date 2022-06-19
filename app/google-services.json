@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "291232414110",
+    "firebase_url": "https://jualsepatu-df799-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "jualsepatu-df799",
+    "storage_bucket": "jualsepatu-df799.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291232414110:android:5666da912285ffb87abe8f",
+        "android_client_info": {
+          "package_name": "com.example.jualginjal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291232414110-9kbn64dcur23sr3a78i3c7ikmve819h4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jualginjal",
+            "certificate_hash": "334918a16b401354996d40cb33cb51bb7e3da0c5"
+          }
+        },
+        {
+          "client_id": "291232414110-mq36b1aop6cdng742ktvn2i7mmiivb72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCfNsTPJLHv2nx0SvvWh4SpQxT5CUtKVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291232414110-mq36b1aop6cdng742ktvn2i7mmiivb72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
